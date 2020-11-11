@@ -2,11 +2,15 @@
 Bruno Fernando Alliani
 
 ## Contents
-This repository contains 4 files. 
+This repository contains 8 files. 
 * ```SQL_Postgresql_Sirena.sql```
 * ```Logger_Sirena.py```
 * ```Covid_regions_Sirena.py```
 * ```Lockdown strategies and curve death profiles.pptx```
+* ``` 3_lockdown.svg ```
+* ``` Europa.svg ```
+* ``` LAT.svg ```
+* ``` Asia.svg ````
 
 ## Databases SQL (PostgreSQL)
 The three excercises are inside the ```SQL_Postgresql_Sirena.sql``` file.
