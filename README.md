@@ -1,8 +1,8 @@
-# Sirena-Assignment
-Bruno Fernando Alliani
-
+# Interview Excercises Assignment
+These excercises were done when applying for the position of Data Analyst Jr. The excercises are described inside the * ```Sirena_Data_Analyst_Assessment.pdf``` file
 ## Contents
-This repository contains 8 files. 
+This repository contains 9 files.
+* ```Sirena_Data_Analyst_Assessment.pdf```
 * ```SQL_Postgresql_Sirena.sql```
 * ```Logger_Sirena.py```
 * ```Covid_regions_Sirena.py```
