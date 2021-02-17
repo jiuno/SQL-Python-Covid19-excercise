@@ -1,5 +1,5 @@
 # Interview Excercises Assignment
-These excercises were done while applying for the position of Data Analyst Jr at Sirena. The excercises are described inside the * ```Sirena_Data_Analyst_Assessment.pdf``` file
+These excercises were done while applying for the position of Data Analyst Jr at Sirena. The excercises are described inside the ```Sirena_Data_Analyst_Assessment.pdf``` file
 ## Contents
 This repository contains 9 files.
 * ```Sirena_Data_Analyst_Assessment.pdf```
