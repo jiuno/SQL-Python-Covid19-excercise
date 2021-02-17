@@ -10,7 +10,7 @@ This repository contains 9 files.
 * ``` 3_lockdown.svg ```
 * ``` Europa.svg ```
 * ``` LAT.svg ```
-* ``` Asia.svg ````
+* ``` Asia.svg ```
 
 ## Databases SQL (PostgreSQL)
 The three excercises are inside the ```SQL_Postgresql_Sirena.sql``` file.
